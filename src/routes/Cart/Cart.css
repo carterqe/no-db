@@ -1,0 +1,11 @@
+.fruits-item img {
+  display: block;
+  max-width: 100px;
+}
+
+.fruits-item {
+  display: inline-block;
+  border: 1px solid black;
+  margin: 0 25px;
+  text-align: center;
+}

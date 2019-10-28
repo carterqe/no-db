@@ -1,0 +1,11 @@
+.fruits-container img{
+  max-height: 100px;
+}
+
+.fruits-container .fruits-item{
+  display: inline-block;
+  border: 1px solid black;
+  margin: 0 25px;
+  text-align: center;
+  padding: 5px;
+}
