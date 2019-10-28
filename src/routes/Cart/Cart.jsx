@@ -15,7 +15,7 @@ class Cart extends Component {
             </div>
           ))}
         </ul>
-        <button><Link to="/">Home</Link></button>
+        <button className="back-home"><Link to="/">Home</Link></button>
       </div>
     );
   }
